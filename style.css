@@ -71,15 +71,15 @@ header h1 {
 
 @keyframes changetext {
     0% {
-        content: "Web Developer";
+        content: "Software Developer";
     }
 
     50% {
-        content: "Web Designer";
+        content: "Blogger";
     }
 
     100% {
-        content: "Blogger";
+        content: "Youtuber";
     }
 }
 
